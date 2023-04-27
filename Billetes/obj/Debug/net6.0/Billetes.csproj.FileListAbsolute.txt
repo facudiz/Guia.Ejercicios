@@ -1,0 +1,12 @@
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfo.cs
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\bin\Debug\net6.0\Billetes.deps.json
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\bin\Debug\net6.0\Billetes.dll
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\bin\Debug\net6.0\Billetes.pdb
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\Billetes.dll
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\refint\Billetes.dll
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\Billetes.pdb
+C:\Users\Facu\source\repos\Primer Proyecto\Billetes\obj\Debug\net6.0\ref\Billetes.dll
